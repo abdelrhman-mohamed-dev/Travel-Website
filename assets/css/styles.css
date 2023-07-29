@@ -978,6 +978,7 @@ input {
   }
   .home__container {
     grid-template-rows: 2fr 0.5fr;
+    padding-top: 150px;
   }
   .home__info {
     width: 328px;
