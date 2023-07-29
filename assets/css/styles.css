@@ -1050,8 +1050,8 @@ input {
   body {
     margin: 0;
   }
-  .home__container,
-  .home__img {
+  .home__container {
     /* height: 640px; */
+    padding-top: 200px;
   }
 }
